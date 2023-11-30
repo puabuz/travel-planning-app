@@ -29,9 +29,14 @@ margin: 20px 0;
 
 .lines{
   color: beige;
+  list-style-type: none;
+  display: flex;
 }
 .line{
-  margin: 5px 10px;
+  margin-right: 60px;
+}
+.line_item{
+  margin: 5px 7px;
 }
 
 .edit_btn{
