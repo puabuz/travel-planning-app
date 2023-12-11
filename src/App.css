@@ -36,18 +36,17 @@ header {
 }
 
 .wrapper_items_list {
-  border: 1px solid red;
+
   width: 100%;
   height: 70%;
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
   justify-content: space-between;
-  flex-wrap: wrap;
+
 }
 
 .line {
-  border: 1px solid red;
  
   margin-right: 60px;
 }
